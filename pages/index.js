@@ -4,6 +4,6 @@ import Layout from '../components/MyLayout.js'
 
 export default () => (
     <Layout>
-       <p>Hello Next.js</p>
+       <p>Hello Next.js Project</p>
     </Layout>
 )
